@@ -10426,7 +10426,7 @@ province;red;green;blue;x;x
 10425;20;180;50;UpperElsass;x;
 10426;3;8;44;Overmaas;x;
 10427;3;8;45;IRreserved334;x; #not used
-10428;155;154;255;Epinal;x; #switched with lorraine 189;155;154;255 10428;70;70;200
+10428;3;8;46;Epinal;x; #10428;155;154;255;Epinal;x; #switched with lorraine 189;155;154;255 10428;70;70;200
 10429;3;8;47;Sarrebourg;x; #Perhaps switch with Luneville
 10430;20;150;250;Saint-Pol;x;
 10431;3;8;49;Imperial-Bar;x;
